@@ -1,0 +1,288 @@
+exp2_size_0_0100
+seconds: 0.000309
+exp2_size_0_0200
+seconds: 0.000931
+exp2_size_0_0300
+seconds: 0.002300
+exp2_size_0_0400
+seconds: 0.003929
+exp2_size_0_0500
+seconds: 0.004990
+exp2_size_0_0600
+seconds: 0.006948
+exp2_size_0_0700
+seconds: 0.009233
+exp2_size_0_0800
+seconds: 0.017262
+exp2_size_0_0900
+seconds: 0.014273
+exp2_size_0_1000
+seconds: 0.026586
+exp2_size_0_2000
+seconds: 0.090326
+exp2_size_0_2250
+seconds: 0.114297
+exp2_size_0_2500
+seconds: 0.173337
+exp2_size_0_2750
+seconds: 0.201578
+exp2_size_0_3000
+seconds: 0.240075
+exp2_size_0_3250
+seconds: 0.356051
+exp2_size_0_3500
+seconds: 0.508555
+exp2_size_0_3750
+seconds: 0.556450
+exp2_size_0_4000
+seconds: 2.705021
+exp2_size_0_4250
+seconds: 1.312140
+exp2_size_0_4500
+seconds: 0.495338
+exp2_size_0_4750
+seconds: 6.465173
+exp2_size_0_5000
+seconds: 1.855633
+exp2_size_0_5250
+seconds: 2.505188
+exp2_size_0_5500
+seconds: 7.348523
+exp2_size_0_5750
+seconds: 12.247653
+exp2_size_0_6000
+seconds: 5.183165
+exp2_size_0_6250
+seconds: 12.165938
+exp2_size_0_6500
+seconds: 11.672456
+exp2_size_0_6750
+seconds: 35.589511
+exp2_size_0_7000
+seconds: 35.682472
+exp2_size_0_7250
+seconds: 41.361802
+exp2_size_0_7500
+seconds: 45.858571
+exp2_size_0_7750
+seconds: 46.317582
+exp2_size_0_8000
+seconds: 29.785193
+exp2_size_1_0100
+seconds: 0.000345
+exp2_size_1_0200
+seconds: 0.000868
+exp2_size_1_0300
+seconds: 0.001790
+exp2_size_1_0400
+seconds: 0.003392
+exp2_size_1_0500
+seconds: 0.004552
+exp2_size_1_0600
+seconds: 0.006161
+exp2_size_1_0700
+seconds: 0.013748
+exp2_size_1_0800
+seconds: 0.012342
+exp2_size_1_0900
+seconds: 0.014102
+exp2_size_1_1000
+seconds: 0.029471
+exp2_size_1_2000
+seconds: 0.082570
+exp2_size_1_2250
+seconds: 0.265616
+exp2_size_1_2500
+seconds: 0.106871
+exp2_size_1_2750
+seconds: 0.130618
+exp2_size_1_3000
+seconds: 0.180977
+exp2_size_1_3250
+seconds: 0.295161
+exp2_size_1_3500
+seconds: 0.390049
+exp2_size_1_3750
+seconds: 1.468787
+exp2_size_1_4000
+seconds: 0.382347
+exp2_size_1_4250
+seconds: 13.755974
+exp2_size_1_4500
+seconds: 0.733838
+exp2_size_1_4750
+seconds: 1.321133
+exp2_size_1_5000
+seconds: 1.841135
+exp2_size_1_5250
+seconds: 2.442156
+exp2_size_1_5500
+seconds: 1.495065
+exp2_size_1_5750
+seconds: 2.040643
+exp2_size_1_6000
+seconds: 2.730609
+exp2_size_1_6250
+seconds: 2.025724
+exp2_size_1_6500
+seconds: 172.452058
+exp2_size_1_6750
+seconds: 6.096701
+exp2_size_1_7000
+seconds: 3.964965
+exp2_size_1_7250
+seconds: 226.154028
+exp2_size_1_7500
+seconds: 109.022267
+exp2_size_1_7750
+seconds: 65.421386
+exp2_size_1_8000
+seconds: 89.064529
+exp2_size_2_2000
+seconds: 0.077035
+exp2_size_2_2250
+seconds: 0.149102
+exp2_size_2_2500
+seconds: 0.128600
+exp2_size_2_2750
+seconds: 0.196465
+exp2_size_2_3000
+seconds: 0.178661
+exp2_size_2_3250
+seconds: 0.385098
+exp2_size_2_3500
+seconds: 0.572530
+exp2_size_2_3750
+seconds: 0.603342
+exp2_size_2_4000
+seconds: 1.064094
+exp2_size_2_4250
+seconds: 1.617397
+exp2_size_2_4500
+seconds: 0.817352
+exp2_size_2_4750
+seconds: 0.568332
+exp2_size_2_5000
+seconds: 2.383102
+exp2_size_2_5250
+seconds: 2.214417
+exp2_size_2_5500
+seconds: 14.340232
+exp2_size_2_5750
+seconds: 14.693640
+exp2_size_2_6000
+seconds: 14.976869
+exp2_size_2_6250
+seconds: 9.142855
+exp2_size_2_6500
+seconds: 3.615441
+exp2_size_2_6750
+seconds: 360.946660
+exp2_size_2_7000
+seconds: 47.004027
+exp2_size_2_7250
+seconds: 189.740562
+exp2_size_2_7500
+seconds: 120.350784
+exp2_size_2_8000
+seconds: 126.218615
+exp2_size_3_2000
+seconds: 0.124656
+exp2_size_3_2250
+seconds: 0.160687
+exp2_size_3_2500
+seconds: 0.113821
+exp2_size_3_2750
+seconds: 0.137883
+exp2_size_3_3000
+seconds: 0.577256
+exp2_size_3_3250
+seconds: 0.236349
+exp2_size_3_3500
+seconds: 0.228365
+exp2_size_3_3750
+seconds: 1.315353
+exp2_size_3_4000
+seconds: 0.328727
+exp2_size_3_4250
+seconds: 0.679782
+exp2_size_3_4500
+seconds: 2.628750
+exp2_size_3_4750
+seconds: 1.667024
+exp2_size_3_5000
+seconds: 8.103346
+exp2_size_3_5250
+seconds: 8.846282
+exp2_size_3_5500
+seconds: 15.252039
+exp2_size_3_5750
+seconds: 4.422507
+exp2_size_3_6000
+seconds: 16.343300
+exp2_size_3_6250
+seconds: 46.724494
+exp2_size_3_6500
+seconds: 11.503350
+exp2_size_3_6750
+seconds: 30.660066
+exp2_size_3_7000
+seconds: 235.849404
+exp2_size_3_7250
+seconds: 508.419392
+exp2_size_3_7500
+seconds: 73.298818
+exp2_size_3_7750
+seconds: 595.729132
+exp2_size_3_8000
+seconds: 438.122326
+exp2_size_4_2000
+seconds: 0.088145
+exp2_size_4_2250
+seconds: 0.179866
+exp2_size_4_2500
+seconds: 0.150765
+exp2_size_4_2750
+seconds: 0.191048
+exp2_size_4_3000
+seconds: 0.264328
+exp2_size_4_3250
+seconds: 0.218772
+exp2_size_4_3500
+seconds: 0.332963
+exp2_size_4_3750
+seconds: 0.774151
+exp2_size_4_4000
+seconds: 3.391371
+exp2_size_4_4250
+seconds: 4.202740
+exp2_size_4_4500
+seconds: 1.614969
+exp2_size_4_4750
+seconds: 1.903801
+exp2_size_4_5000
+seconds: 2.086910
+exp2_size_4_5250
+seconds: 4.401356
+exp2_size_4_5500
+seconds: 2.165806
+exp2_size_4_5750
+seconds: 12.036665
+exp2_size_4_6000
+seconds: 12.528464
+exp2_size_4_6250
+seconds: 64.620287
+exp2_size_4_6500
+seconds: 5.343579
+exp2_size_4_6750
+seconds: 140.095181
+exp2_size_4_7000
+seconds: 34.160486
+exp2_size_4_7250
+seconds: 78.071558
+exp2_size_4_7500
+seconds: 64.928120
+exp2_size_4_7750
+seconds: 16.707562
+exp2_size_4_8000
+seconds: 106.586754

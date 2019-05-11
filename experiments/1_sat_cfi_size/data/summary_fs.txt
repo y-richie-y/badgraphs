@@ -1,0 +1,264 @@
+exp2_size_0_0100
+Total time:	0.00 seconds
+exp2_size_0_0200
+Total time:	0.00 seconds
+exp2_size_0_0300
+Total time:	0.00 seconds
+exp2_size_0_0400
+Total time:	0.00 seconds
+exp2_size_0_0500
+Total time:	0.00 seconds
+exp2_size_0_0600
+Total time:	0.00 seconds
+exp2_size_0_0700
+Total time:	0.00 seconds
+exp2_size_0_0800
+Total time:	0.00 seconds
+exp2_size_0_0900
+Total time:	0.00 seconds
+exp2_size_0_1000
+Total time:	0.00 seconds
+exp2_size_0_2000
+Total time:	0.06 seconds
+exp2_size_0_2250
+Total time:	0.19 seconds
+exp2_size_0_2500
+Total time:	0.10 seconds
+exp2_size_0_2750
+Total time:	0.44 seconds
+exp2_size_0_3000
+Total time:	0.78 seconds
+exp2_size_0_3250
+Total time:	0.92 seconds
+exp2_size_0_3500
+Total time:	4.26 seconds
+exp2_size_0_3750
+Total time:	7.95 seconds
+exp2_size_0_4000
+Total time:	4.47 seconds
+exp2_size_0_4250
+Total time:	2.42 seconds
+exp2_size_0_4500
+Total time:	12.17 seconds
+exp2_size_0_4750
+Total time:	48.07 seconds
+exp2_size_0_5000
+Total time:	48.94 seconds
+exp2_size_0_5250
+Total time:	405.62 seconds
+exp2_size_0_5500
+Total time:	394.96 seconds
+exp2_size_0_5750
+Total time:	202.85 seconds
+exp2_size_0_6000
+Total time:	1817.12 seconds
+exp2_size_0_6250
+Total time:	416.32 seconds
+exp2_size_0_6500
+Total time:	26.45 seconds
+exp2_size_0_6750
+Total time:	1877.20 seconds
+exp2_size_0_7000
+exp2_size_0_7250
+exp2_size_0_7500
+exp2_size_0_7750
+Total time:	725.65 seconds
+exp2_size_0_8000
+exp2_size_1_0100
+Total time:	0.00 seconds
+exp2_size_1_0200
+Total time:	0.00 seconds
+exp2_size_1_0300
+Total time:	0.00 seconds
+exp2_size_1_0400
+Total time:	0.00 seconds
+exp2_size_1_0500
+Total time:	0.00 seconds
+exp2_size_1_0600
+Total time:	0.00 seconds
+exp2_size_1_0700
+Total time:	0.00 seconds
+exp2_size_1_0800
+Total time:	0.00 seconds
+exp2_size_1_0900
+Total time:	0.00 seconds
+exp2_size_1_1000
+Total time:	0.00 seconds
+exp2_size_1_2000
+Total time:	0.07 seconds
+exp2_size_1_2250
+Total time:	0.09 seconds
+exp2_size_1_2500
+Total time:	0.01 seconds
+exp2_size_1_2750
+Total time:	0.01 seconds
+exp2_size_1_3000
+Total time:	0.01 seconds
+exp2_size_1_3250
+Total time:	4.21 seconds
+exp2_size_1_3500
+Total time:	14.66 seconds
+exp2_size_1_3750
+Total time:	30.35 seconds
+exp2_size_1_4000
+Total time:	21.65 seconds
+exp2_size_1_4250
+Total time:	9.82 seconds
+exp2_size_1_4500
+Total time:	10.13 seconds
+exp2_size_1_4750
+Total time:	5.86 seconds
+exp2_size_1_5000
+Total time:	698.50 seconds
+exp2_size_1_5250
+Total time:	102.79 seconds
+exp2_size_1_5500
+Total time:	231.05 seconds
+exp2_size_1_5750
+Total time:	886.38 seconds
+exp2_size_1_6000
+Total time:	406.00 seconds
+exp2_size_1_6250
+Total time:	6486.26 seconds
+exp2_size_1_6500
+Total time:	62.24 seconds
+exp2_size_1_6750
+Total time:	3627.79 seconds
+exp2_size_1_7000
+exp2_size_1_7250
+exp2_size_1_7500
+Total time:	1300.14 seconds
+exp2_size_1_7750
+exp2_size_1_8000
+exp2_size_2_2000
+Total time:	0.07 seconds
+exp2_size_2_2250
+Total time:	0.01 seconds
+exp2_size_2_2500
+Total time:	0.30 seconds
+exp2_size_2_2750
+Total time:	1.95 seconds
+exp2_size_2_3000
+Total time:	0.92 seconds
+exp2_size_2_3250
+Total time:	4.36 seconds
+exp2_size_2_3500
+Total time:	0.54 seconds
+exp2_size_2_3750
+Total time:	152.94 seconds
+exp2_size_2_4000
+Total time:	2.31 seconds
+exp2_size_2_4250
+Total time:	86.56 seconds
+exp2_size_2_4500
+Total time:	2.76 seconds
+exp2_size_2_4750
+Total time:	123.53 seconds
+exp2_size_2_5000
+Total time:	12.43 seconds
+exp2_size_2_5250
+exp2_size_2_5500
+Total time:	176.01 seconds
+exp2_size_2_5750
+Total time:	109.61 seconds
+exp2_size_2_6000
+exp2_size_2_6250
+Total time:	268.93 seconds
+exp2_size_2_6500
+Total time:	1170.10 seconds
+exp2_size_2_6750
+Total time:	1999.11 seconds
+exp2_size_2_7000
+exp2_size_2_7250
+exp2_size_2_7500
+exp2_size_2_7750
+exp2_size_2_8000
+exp2_size_3_2000
+Total time:	0.08 seconds
+exp2_size_3_2250
+Total time:	0.04 seconds
+exp2_size_3_2500
+Total time:	0.06 seconds
+exp2_size_3_2750
+Total time:	3.47 seconds
+exp2_size_3_3000
+Total time:	0.39 seconds
+exp2_size_3_3250
+Total time:	1.03 seconds
+exp2_size_3_3500
+Total time:	0.11 seconds
+exp2_size_3_3750
+Total time:	2.47 seconds
+exp2_size_3_4000
+Total time:	44.39 seconds
+exp2_size_3_4250
+Total time:	4.88 seconds
+exp2_size_3_4500
+Total time:	1243.97 seconds
+exp2_size_3_4750
+Total time:	11.35 seconds
+exp2_size_3_5000
+Total time:	27.17 seconds
+exp2_size_3_5250
+Total time:	98.40 seconds
+exp2_size_3_5500
+Total time:	212.91 seconds
+exp2_size_3_5750
+Total time:	826.56 seconds
+exp2_size_3_6000
+exp2_size_3_6250
+Total time:	971.17 seconds
+exp2_size_3_6500
+Total time:	7320.24 seconds
+exp2_size_3_6750
+Total time:	3733.50 seconds
+exp2_size_3_7000
+exp2_size_3_7250
+exp2_size_3_7500
+Total time:	120.68 seconds
+exp2_size_3_7750
+Total time:	9672.43 seconds
+exp2_size_3_8000
+exp2_size_4_2000
+Total time:	0.12 seconds
+exp2_size_4_2250
+Total time:	0.21 seconds
+exp2_size_4_2500
+Total time:	0.04 seconds
+exp2_size_4_2750
+Total time:	5.64 seconds
+exp2_size_4_3000
+Total time:	1.87 seconds
+exp2_size_4_3250
+Total time:	3.78 seconds
+exp2_size_4_3500
+Total time:	58.69 seconds
+exp2_size_4_3750
+Total time:	9.06 seconds
+exp2_size_4_4000
+Total time:	2.09 seconds
+exp2_size_4_4250
+Total time:	16.60 seconds
+exp2_size_4_4500
+Total time:	62.33 seconds
+exp2_size_4_4750
+Total time:	175.41 seconds
+exp2_size_4_5000
+Total time:	174.60 seconds
+exp2_size_4_5250
+Total time:	114.96 seconds
+exp2_size_4_5500
+Total time:	3664.89 seconds
+exp2_size_4_5750
+Total time:	221.54 seconds
+exp2_size_4_6000
+Total time:	3292.12 seconds
+exp2_size_4_6250
+Total time:	7381.39 seconds
+exp2_size_4_6500
+exp2_size_4_6750
+exp2_size_4_7000
+exp2_size_4_7250
+exp2_size_4_7500
+exp2_size_4_7750
+exp2_size_4_8000

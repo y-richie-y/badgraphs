@@ -1,0 +1,156 @@
+exp4_ratio_0_1.500
+cpu time = 249.00 seconds
+exp4_ratio_0_1.750
+cpu time = 54.32 seconds
+exp4_ratio_0_2.000
+cpu time = 34.77 seconds
+cpu time = 272.91 seconds
+exp4_ratio_0_2.250
+cpu time = 8.57 seconds
+cpu time = 4.60 seconds
+exp4_ratio_0_2.500
+cpu time = 3.50 seconds
+cpu time = 0.24 seconds
+exp4_ratio_0_2.750
+cpu time = 5.29 seconds
+cpu time = 0.23 seconds
+exp4_ratio_0_3.000
+cpu time = 1.14 seconds
+cpu time = 0.25 seconds
+exp4_ratio_0_3.250
+cpu time = 2.32 seconds
+cpu time = 0.02 seconds
+exp4_ratio_0_3.500
+cpu time = 0.84 seconds
+cpu time = 0.05 seconds
+exp4_ratio_0_3.750
+cpu time = 0.52 seconds
+cpu time = 0.01 seconds
+exp4_ratio_0_4.000
+cpu time = 0.47 seconds
+cpu time = 0.06 seconds
+exp4_ratio_1_1.500
+cpu time = 164.05 seconds
+exp4_ratio_1_1.750
+cpu time = 631.91 seconds
+cpu time = 292.64 seconds
+exp4_ratio_1_2.000
+cpu time = 28.35 seconds
+cpu time = 28.58 seconds
+exp4_ratio_1_2.250
+cpu time = 9.99 seconds
+cpu time = 4.87 seconds
+exp4_ratio_1_2.500
+cpu time = 8.40 seconds
+cpu time = 0.27 seconds
+exp4_ratio_1_2.750
+cpu time = 2.24 seconds
+cpu time = 0.06 seconds
+exp4_ratio_1_3.000
+cpu time = 3.43 seconds
+cpu time = 0.06 seconds
+exp4_ratio_1_3.250
+cpu time = 1.30 seconds
+cpu time = 0.06 seconds
+exp4_ratio_1_3.500
+cpu time = 0.75 seconds
+cpu time = 0.02 seconds
+exp4_ratio_1_3.750
+cpu time = 0.68 seconds
+cpu time = 0.02 seconds
+exp4_ratio_1_4.000
+cpu time = 0.80 seconds
+cpu time = 0.02 seconds
+exp4_ratio_2_1.500
+cpu time = 1732.97 seconds
+exp4_ratio_2_1.750
+cpu time = 9.49 seconds
+exp4_ratio_2_2.000
+cpu time = 5.52 seconds
+cpu time = 30.59 seconds
+exp4_ratio_2_2.250
+cpu time = 6.08 seconds
+cpu time = 0.99 seconds
+exp4_ratio_2_2.500
+cpu time = 2.28 seconds
+cpu time = 0.06 seconds
+exp4_ratio_2_2.750
+cpu time = 1.37 seconds
+cpu time = 0.02 seconds
+exp4_ratio_2_3.000
+cpu time = 1.09 seconds
+cpu time = 0.26 seconds
+exp4_ratio_2_3.250
+cpu time = 0.73 seconds
+cpu time = 0.02 seconds
+exp4_ratio_2_3.500
+cpu time = 1.21 seconds
+cpu time = 0.03 seconds
+exp4_ratio_2_3.750
+cpu time = 1.26 seconds
+cpu time = 0.02 seconds
+exp4_ratio_2_4.000
+cpu time = 1.74 seconds
+cpu time = 0.02 seconds
+exp4_ratio_3_1.500
+cpu time = 4204.86 seconds
+exp4_ratio_3_1.750
+cpu time = 81.55 seconds
+cpu time = 495.70 seconds
+exp4_ratio_3_2.000
+cpu time = 31.21 seconds
+exp4_ratio_3_2.250
+cpu time = 14.47 seconds
+cpu time = 30.54 seconds
+exp4_ratio_3_2.500
+cpu time = 2.72 seconds
+cpu time = 2.19 seconds
+exp4_ratio_3_2.750
+cpu time = 2.77 seconds
+cpu time = 0.08 seconds
+exp4_ratio_3_3.000
+cpu time = 2.80 seconds
+cpu time = 0.07 seconds
+exp4_ratio_3_3.250
+cpu time = 1.16 seconds
+cpu time = 0.01 seconds
+exp4_ratio_3_3.500
+cpu time = 1.42 seconds
+cpu time = 0.07 seconds
+exp4_ratio_3_3.750
+cpu time = 0.88 seconds
+cpu time = 0.02 seconds
+exp4_ratio_3_4.000
+cpu time = 0.77 seconds
+cpu time = 0.02 seconds
+exp4_ratio_4_1.500
+cpu time = 603.81 seconds
+exp4_ratio_4_1.750
+cpu time = 132.83 seconds
+exp4_ratio_4_2.000
+cpu time = 8.77 seconds
+cpu time = 4.54 seconds
+exp4_ratio_4_2.250
+cpu time = 9.36 seconds
+cpu time = 28.91 seconds
+exp4_ratio_4_2.500
+cpu time = 4.58 seconds
+cpu time = 0.06 seconds
+exp4_ratio_4_2.750
+cpu time = 3.91 seconds
+cpu time = 0.06 seconds
+exp4_ratio_4_3.000
+cpu time = 3.59 seconds
+cpu time = 0.22 seconds
+exp4_ratio_4_3.250
+cpu time = 0.72 seconds
+cpu time = 0.02 seconds
+exp4_ratio_4_3.500
+cpu time = 0.57 seconds
+cpu time = 0.06 seconds
+exp4_ratio_4_3.750
+cpu time = 1.94 seconds
+cpu time = 0.01 seconds
+exp4_ratio_4_4.000
+cpu time = 0.67 seconds
+cpu time = 0.02 seconds
